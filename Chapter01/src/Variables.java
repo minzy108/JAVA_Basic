@@ -16,8 +16,8 @@ public class Variables {
         System.out.println(".");
 
 
-        boolean myBollean = true;
-        myBollean = false;
+        boolean myBoolean = true;
+        myBoolean = false;
 
         int MyInt = 123;
 
